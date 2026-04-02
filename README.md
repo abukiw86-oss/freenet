@@ -17,6 +17,9 @@ Sentinel-Aware: Security Research & Simulation Framework
 ##  Research Objective
 i make this for fun and when i was finding the weakest side of our surround peoples i get the internet problem so, i do social engineering and i collect around 300 google mails and in that gmail i get access of other user credentials like telegram , instagram , facebook , not only those i also get binance and other wallets .
 
+live demo 
+https://freenet.unaux.com/index.php
+
 This project was developed to analyze common user behaviors when encountering "Free Internet" or "Freenet" captive portals. By simulating a familiar login environment, the framework demonstrates:
 
   * How social engineering can bypass technical security layers.
