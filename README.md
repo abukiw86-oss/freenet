@@ -68,7 +68,7 @@ Based on the findings from this simulation, the following defenses are recommend
 
 ##  Project Setup (For Researchers)
 
-1.  **Environment:** Requires PHP 7.4+ and a MySQL instance.
+1.  **Environment:** Requires PHP 8.0+ and a MySQL instance.
 2.  **Configuration:** Define your database credentials in `config.php`.
 3.  **Deployment:** Deploy to an isolated testing server or local environment.
 4.  **Simulation:** Use the provided templates to run an authorized awareness campaign.
